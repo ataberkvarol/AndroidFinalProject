@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/navigation_main_activity_nav.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/navigation/main_activity_nav.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_increase_button.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/increase_button.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_card_mainpage.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/card_mainpage.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_add_to_cart_3.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/add_to_cart_3.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_card_cartpage.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/card_cartpage.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_payment.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/payment.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_basket.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/basket.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_border_background.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/border_background.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_delete_food.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/delete_food.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_fragment_main_page.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_main_page.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_rounded_corner_background.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/rounded_corner_background.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_bg_roundrect_ripple_light_border.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/bg_roundrect_ripple_light_border.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_add_to_basketp.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/add_to_basketp.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable_delete_trash.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable/delete_trash.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_fragment_food_basket.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_food_basket.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-merged_res-51:/layout_fragment_food_detail.xml.flat",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_food_detail.xml"
+    }
+]

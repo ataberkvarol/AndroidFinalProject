@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/fragment_main_page.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_main_page.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/fragment_food_basket.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_food_basket.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/card_mainpage.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/card_mainpage.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/card_cartpage.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/card_cartpage.xml"
+    },
+    {
+        "merged": "com.example.foodcartfinalproject.app-mergeDebugResources-50:/layout/fragment_food_detail.xml",
+        "source": "com.example.foodcartfinalproject.app-main-53:/layout/fragment_food_detail.xml"
+    }
+]

@@ -1,0 +1,54 @@
+com.example.foodcartfinalproject.app-startup-runtime-1.1.1-0 C:\Users\ataberk\.gradle\caches\transforms-3\0066afd033e8bfb2ff3f9dc38f4c8281\transformed\startup-runtime-1.1.1\res
+com.example.foodcartfinalproject.app-databinding-adapters-8.0.2-1 C:\Users\ataberk\.gradle\caches\transforms-3\02ff57afa502bcee4d772e0b606b9313\transformed\databinding-adapters-8.0.2\res
+com.example.foodcartfinalproject.app-appcompat-1.6.1-2 C:\Users\ataberk\.gradle\caches\transforms-3\033b98518634cd38019818e19e572bf4\transformed\appcompat-1.6.1\res
+com.example.foodcartfinalproject.app-constraintlayout-2.1.4-3 C:\Users\ataberk\.gradle\caches\transforms-3\089a104c9da40c4efd97e15ea6e2e1ce\transformed\constraintlayout-2.1.4\res
+com.example.foodcartfinalproject.app-savedstate-1.2.1-4 C:\Users\ataberk\.gradle\caches\transforms-3\0cf0d31382f024a46d86bc02ef96b963\transformed\savedstate-1.2.1\res
+com.example.foodcartfinalproject.app-navigation-fragment-ktx-2.6.0-5 C:\Users\ataberk\.gradle\caches\transforms-3\2e7bd80b5ec70328b05001e949f828e2\transformed\navigation-fragment-ktx-2.6.0\res
+com.example.foodcartfinalproject.app-lifecycle-livedata-core-2.6.1-6 C:\Users\ataberk\.gradle\caches\transforms-3\35ebcf4c3657db97947d7524a1ecb297\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.foodcartfinalproject.app-coordinatorlayout-1.1.0-7 C:\Users\ataberk\.gradle\caches\transforms-3\3aa6afe2949b7eb3b035754da24ddc8f\transformed\coordinatorlayout-1.1.0\res
+com.example.foodcartfinalproject.app-appcompat-resources-1.6.1-8 C:\Users\ataberk\.gradle\caches\transforms-3\4006cff999538c80103dbeb8346a35cb\transformed\appcompat-resources-1.6.1\res
+com.example.foodcartfinalproject.app-recyclerview-1.1.0-9 C:\Users\ataberk\.gradle\caches\transforms-3\40412a6cdcca7aad99e8b67abe337894\transformed\recyclerview-1.1.0\res
+com.example.foodcartfinalproject.app-lifecycle-livedata-core-ktx-2.6.1-10 C:\Users\ataberk\.gradle\caches\transforms-3\441c77b6a3b5a893ccccad6f6724b993\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.example.foodcartfinalproject.app-lifecycle-viewmodel-savedstate-2.6.1-11 C:\Users\ataberk\.gradle\caches\transforms-3\474c8845a214b862f6aefb8bb9c43300\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.foodcartfinalproject.app-activity-ktx-1.7.2-12 C:\Users\ataberk\.gradle\caches\transforms-3\545805c4b592c19022b19b692653476f\transformed\activity-ktx-1.7.2\res
+com.example.foodcartfinalproject.app-savedstate-ktx-1.2.1-13 C:\Users\ataberk\.gradle\caches\transforms-3\5f39068ca831dd66926340e6f399524b\transformed\savedstate-ktx-1.2.1\res
+com.example.foodcartfinalproject.app-emoji2-1.2.0-14 C:\Users\ataberk\.gradle\caches\transforms-3\5f96474ff9db282d3f541df4e6a3b3f7\transformed\emoji2-1.2.0\res
+com.example.foodcartfinalproject.app-navigation-fragment-2.6.0-15 C:\Users\ataberk\.gradle\caches\transforms-3\5fb8d40db9e5414096819c26bbe24391\transformed\navigation-fragment-2.6.0\res
+com.example.foodcartfinalproject.app-navigation-runtime-2.6.0-16 C:\Users\ataberk\.gradle\caches\transforms-3\614b3fae545b604ad9d4e47fb9d2579f\transformed\navigation-runtime-2.6.0\res
+com.example.foodcartfinalproject.app-activity-1.7.2-17 C:\Users\ataberk\.gradle\caches\transforms-3\7794a753275ee32686ab2e5c056cc941\transformed\activity-1.7.2\res
+com.example.foodcartfinalproject.app-lifecycle-runtime-ktx-2.6.1-18 C:\Users\ataberk\.gradle\caches\transforms-3\81ae2985f09c24bb50d5744bb0dcc9cc\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.foodcartfinalproject.app-databinding-runtime-8.0.2-19 C:\Users\ataberk\.gradle\caches\transforms-3\87cd68507a1253cfb8f5a50607d57515\transformed\databinding-runtime-8.0.2\res
+com.example.foodcartfinalproject.app-drawerlayout-1.1.1-20 C:\Users\ataberk\.gradle\caches\transforms-3\89f10075d38ee3e5c2415f1965cbadee\transformed\drawerlayout-1.1.1\res
+com.example.foodcartfinalproject.app-slidingpanelayout-1.2.0-21 C:\Users\ataberk\.gradle\caches\transforms-3\8c23f6144e15c82f5854020033179f16\transformed\slidingpanelayout-1.2.0\res
+com.example.foodcartfinalproject.app-core-1.9.0-22 C:\Users\ataberk\.gradle\caches\transforms-3\93c53e100b7294378ba032f36ef95ea6\transformed\core-1.9.0\res
+com.example.foodcartfinalproject.app-profileinstaller-1.3.0-23 C:\Users\ataberk\.gradle\caches\transforms-3\941d0c4d3f59b7fbbc4a7749eb191444\transformed\profileinstaller-1.3.0\res
+com.example.foodcartfinalproject.app-fragment-ktx-1.6.0-24 C:\Users\ataberk\.gradle\caches\transforms-3\94f4238347d32d15fce52d1785236b0c\transformed\fragment-ktx-1.6.0\res
+com.example.foodcartfinalproject.app-fragment-1.6.0-25 C:\Users\ataberk\.gradle\caches\transforms-3\9aa5c11872ed22b8e63bd31acb73bda8\transformed\fragment-1.6.0\res
+com.example.foodcartfinalproject.app-core-runtime-2.2.0-26 C:\Users\ataberk\.gradle\caches\transforms-3\a4bfb30e4a146dcc7d435a49a10a6483\transformed\core-runtime-2.2.0\res
+com.example.foodcartfinalproject.app-lifecycle-viewmodel-ktx-2.6.1-27 C:\Users\ataberk\.gradle\caches\transforms-3\aa502c7f6b0a240420dae3df12836c2b\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.foodcartfinalproject.app-lifecycle-livedata-2.6.1-28 C:\Users\ataberk\.gradle\caches\transforms-3\ac98d93be52dc686010d6556005d7311\transformed\lifecycle-livedata-2.6.1\res
+com.example.foodcartfinalproject.app-window-1.0.0-29 C:\Users\ataberk\.gradle\caches\transforms-3\ae46bd1749bc8847828523ee2e548b44\transformed\window-1.0.0\res
+com.example.foodcartfinalproject.app-viewpager2-1.0.0-30 C:\Users\ataberk\.gradle\caches\transforms-3\b2de539e1ea91a1727964cb0ef3d9a6a\transformed\viewpager2-1.0.0\res
+com.example.foodcartfinalproject.app-transition-1.4.1-31 C:\Users\ataberk\.gradle\caches\transforms-3\b3ef751f68c6d2ee7fcf7660d1eeedf1\transformed\transition-1.4.1\res
+com.example.foodcartfinalproject.app-navigation-common-2.6.0-32 C:\Users\ataberk\.gradle\caches\transforms-3\bbe6daa21c13b5441a312ebba866209c\transformed\navigation-common-2.6.0\res
+com.example.foodcartfinalproject.app-glide-4.13.2-33 C:\Users\ataberk\.gradle\caches\transforms-3\c65c6b07ae2a257176a7d3b8ae05e92e\transformed\glide-4.13.2\res
+com.example.foodcartfinalproject.app-emoji2-views-helper-1.2.0-34 C:\Users\ataberk\.gradle\caches\transforms-3\c72bf7ad2979da8d87c7decbe3a0ee68\transformed\emoji2-views-helper-1.2.0\res
+com.example.foodcartfinalproject.app-core-ktx-1.9.0-35 C:\Users\ataberk\.gradle\caches\transforms-3\ccb2bd7a3f46be3d8782fd6ea174f2d6\transformed\core-ktx-1.9.0\res
+com.example.foodcartfinalproject.app-lifecycle-service-2.6.1-36 C:\Users\ataberk\.gradle\caches\transforms-3\cee5f8fb437d7085769c3b46e6ba6355\transformed\lifecycle-service-2.6.1\res
+com.example.foodcartfinalproject.app-lifecycle-process-2.6.1-37 C:\Users\ataberk\.gradle\caches\transforms-3\cf06a08b2d3c9b91f6a3321a538013bc\transformed\lifecycle-process-2.6.1\res
+com.example.foodcartfinalproject.app-lifecycle-viewmodel-2.6.1-38 C:\Users\ataberk\.gradle\caches\transforms-3\e3a3ac73bce37b1c2a897b3164553b9e\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.foodcartfinalproject.app-navigation-ui-ktx-2.6.0-39 C:\Users\ataberk\.gradle\caches\transforms-3\e4ad354a87ce2e52dbe2aca6fb26d959\transformed\navigation-ui-ktx-2.6.0\res
+com.example.foodcartfinalproject.app-lifecycle-runtime-2.6.1-40 C:\Users\ataberk\.gradle\caches\transforms-3\e78bba98c4561677d55e40385a8a1dd9\transformed\lifecycle-runtime-2.6.1\res
+com.example.foodcartfinalproject.app-annotation-experimental-1.3.0-41 C:\Users\ataberk\.gradle\caches\transforms-3\e92256f1a0da302e48773bed08bc8d36\transformed\annotation-experimental-1.3.0\res
+com.example.foodcartfinalproject.app-material-1.9.0-42 C:\Users\ataberk\.gradle\caches\transforms-3\ec559890d0d6621bc3aa9169fa5762f1\transformed\material-1.9.0\res
+com.example.foodcartfinalproject.app-cardview-1.0.0-43 C:\Users\ataberk\.gradle\caches\transforms-3\ec732ead73a6c6904b1d787be3bf40e6\transformed\cardview-1.0.0\res
+com.example.foodcartfinalproject.app-navigation-common-ktx-2.6.0-44 C:\Users\ataberk\.gradle\caches\transforms-3\ee6385a892dfc4a68571d9b8042de738\transformed\navigation-common-ktx-2.6.0\res
+com.example.foodcartfinalproject.app-navigation-runtime-ktx-2.6.0-45 C:\Users\ataberk\.gradle\caches\transforms-3\ef5891b1aa068c7d0ed9d7069dc8cb65\transformed\navigation-runtime-ktx-2.6.0\res
+com.example.foodcartfinalproject.app-navigation-ui-2.6.0-46 C:\Users\ataberk\.gradle\caches\transforms-3\ffe255ced7247e6377dc67ed6c9c5c30\transformed\navigation-ui-2.6.0\res
+com.example.foodcartfinalproject.app-pngs-47 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\build\generated\res\pngs\debug
+com.example.foodcartfinalproject.app-resValues-48 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\build\generated\res\resValues\debug
+com.example.foodcartfinalproject.app-packageDebugResources-49 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.foodcartfinalproject.app-packageDebugResources-50 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.foodcartfinalproject.app-merged_res-51 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\build\intermediates\merged_res\debug
+com.example.foodcartfinalproject.app-debug-52 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\src\debug\res
+com.example.foodcartfinalproject.app-main-53 C:\Users\ataberk\Desktop\asd\FoodCart-master (1)\FoodCart-master\app\src\main\res

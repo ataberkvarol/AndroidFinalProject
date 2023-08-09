@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                                        
+                            
+                 
+                                     
+                                                                                      
+                 
+                               
+                                                                        
+
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.fragment.FoodsDetailFragment" android:tag="layout/fragment_food_detail_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <ImageView
+            android:id="@+id/foodImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="43dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/foodNameText"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/foodNameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:tag="binding_1"                 
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarDetailPage" />
+
+        <TextView
+            android:id="@+id/foodPriceText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:tag="binding_2"                                                     
+            android:textSize="20sp"
+            android:typeface="serif"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/foodImage" />
+
+        <TextView
+            android:id="@+id/quantityText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quantity"
+            android:textSize="20sp"
+            android:typeface="serif"
+            app:layout_constraintBottom_toBottomOf="@+id/buttonIncreaseQuantity"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/buttonIncreaseQuantity" />
+
+        <Button
+            android:id="@+id/buttonDecreaseQuantity"
+            android:layout_width="59dp"
+            android:layout_height="61dp"
+            android:layout_marginStart="74dp"
+            android:layout_marginTop="415dp"
+            android:layout_marginEnd="47dp"
+            android:layout_marginBottom="119dp"
+            android:background="@drawable/border_background"
+            android:text="-"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/quantityText"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarDetailPage" />
+
+        <Button
+            android:id="@+id/buttonIncreaseQuantity"
+            android:layout_width="57dp"
+            android:layout_height="57dp"
+            android:layout_marginStart="38dp"
+            android:layout_marginEnd="82dp"
+            android:background="@drawable/border_background"
+            android:text="+"
+            android:textColorHighlight="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="20sp"
+            app:icon="@drawable/bg_roundrect_ripple_light_border"
+            app:iconGravity="textEnd|textStart"
+            app:iconPadding="2dp"
+            app:iconSize="50dp"
+            app:layout_constraintBottom_toBottomOf="@+id/buttonDecreaseQuantity"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/quantityText"
+            app:layout_constraintTop_toTopOf="@+id/buttonDecreaseQuantity" />
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarDetailPage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#a38ac5"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="binding_3"                
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="10dp" />
+        </androidx.appcompat.widget.Toolbar>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:clickable="true"
+            android:tag="binding_4"                                         
+            android:src="@drawable/basket"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarDetailPage"
+            app:maxImageSize="40dp"
+            android:focusable="true"
+            android:contentDescription="TODO" />
+
+        <ImageView
+            android:id="@+id/addToCartDetail"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="193dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="122dp"
+            android:layout_marginBottom="36dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/fabDetail"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/quantityText"
+            app:layout_constraintVertical_bias="1.0"
+            app:srcCompat="@drawable/add_to_cart_3" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         
